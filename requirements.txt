@@ -7,3 +7,10 @@ numpy
 opencv-python-headless
 Pillow
 tensorflow
+langchain
+PyPDF2
+python-dotenv
+faiss-cpu
+streamlit-extras
+openai
+tiktoken
