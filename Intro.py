@@ -10,6 +10,6 @@ st.write("Esta es la recopilación de trabajos que se han realizado en la materi
 
 from PIL import Image
 
-image = Image.open('Ciudade_Inteligentes.jpeg')
+image = Image.open('Ciudades_Inteligentes.jpeg')
 st.image(image)
 
