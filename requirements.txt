@@ -1,7 +1,6 @@
 streamlit
 geopandas
 keras
-streamlit
 streamlit-webrtc
 numpy
 opencv-python-headless
