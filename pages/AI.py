@@ -5,7 +5,7 @@ import geopandas as gpd
 import json
 import os
 import base64
-from openai import OpenAI
+from openai import openai
 
 from PIL import Image
 
