@@ -10,5 +10,5 @@ st.title("Esto es Inteligencia Artificial")
 
 st.write("Aqui podemos ver el proyecto de Inteligencia Artificial desarrollado en la materia de Inteligencia Urbana")
 
-image = Image.open('DetectorIma.jpg')
+image = Image.open('DetectorIma.png')
 st.image(image)
