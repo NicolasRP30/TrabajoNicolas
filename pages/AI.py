@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import geopandas as gpd
 import json
+import os
+import base64
+from openai import OpenAI
 
 from PIL import Image
 
@@ -12,12 +15,6 @@ st.write("Aqui podemos ver el proyecto de Inteligencia Artificial desarrollado e
 
 image = Image.open('DetectorIma.png')
 st.image(image)
-
------
-import os
-import streamlit as st
-import base64
-from openai import OpenAI
 
 # Function to encode the image to base64
 def encode_image(image_file):
