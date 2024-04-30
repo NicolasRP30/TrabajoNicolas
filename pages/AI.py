@@ -11,7 +11,13 @@ from PIL import Image
 
 st.title("AI o Artificial Intelligence")
 
-st.write("Aqui podemos ver el proyecto de Inteligencia Artificial desarrollado en la materia de Inteligencia Urbana")
+st.write("En este proyecto de AI o Inteligencia Artificial en Español se desarrollo un detector de imagenes." 
+         "La idea es que subas una imagen para la Inteligencia Artificial pueda reconocer los componentes base y" 
+         "generar una descripcion basica de la fotografia.")
+
+
+st.write("Recuerda unsar tu clave para poder seguir:" 
+         "sk-dAqdLo8Y7xpJ3pn6oG4g T3BlbkFJTG10Af6udDl1PzEHXg2x")
 
 image = Image.open('DetectorIma.png')
 st.image(image)
