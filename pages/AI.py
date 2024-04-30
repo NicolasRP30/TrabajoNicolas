@@ -9,8 +9,7 @@ from openai import OpenAI
 
 from PIL import Image
 
-st.title("AI es la abreviacion de Artificial Inteligent")
-st.write("o traducida al español como Inteligencia Artificial")
+st.title("AI o Artificial Intelligence")
 
 st.write("Aqui podemos ver el proyecto de Inteligencia Artificial desarrollado en la materia de Inteligencia Urbana")
 
