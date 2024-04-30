@@ -1,7 +1,4 @@
 import streamlit as st
-
-st.title("Esto es Analitica de Datos")
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -10,13 +7,18 @@ import json
 
 with open('Mapa de Accidentalidad Vial Municipio de Medellín 2016.geojson', "r") as read_file:
     data = json.load(read_file)
+    
+st.title("La Analitica de Datos transforma la información")
+
+st.write("El analisis de datos es convertir datos sin procesar en información practica. Para el urbanismo es de vital" 
+"importancia esta herramientas para una lectura integral del territorio, justificación de los criterios de diseño y" 
+"toma de decisiones colectivas e individuales")
 
 st.title("Accidentalidad Municipio de Medellín 2016")
 
-st.write('Se entiende por accidente de tránsito  evento, generalmente involuntario, generado al menos por un un vehículo en movimiento, que causa daños a '
-         'personas y bienes involucrados en él, e igualmente afecta la normal circulación de los vehículos que se movilizan por la vía o vías comprendidas en el' 
-         'lugar o dentro de la zona de influencia del hecho0 (Ley 769 de 2002 - Código Nacional de Tránsito)'
-         )
+st.write('En este proyecto se entiende por accidente de tránsito por lo que dicta la Ley 769 de 2002 - Código Nacional de Tránsito, es un evento," 
+"generalmente involuntario, generado al menos por un un vehículo en movimiento, que causa daños a personas y bienes involucrados en él, e igualmente" 
+"afecta la normal circulación de los vehículos que se movilizan por la vía o vías comprendidas en el lugar o dentro de la zona de influencia del hecho")
 st.subheader('Sistema de consulta de Accidentalidad municipio de Medellín')
 
 La = []
