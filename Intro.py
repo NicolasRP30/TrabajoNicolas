@@ -6,11 +6,12 @@ import json
 
 from PIL import Image
 
-st.title("Intro o mejor conocida como 
-Introduccion a la Inteligencia Urbana")
+st.title("Intro o mejor conocida como" 
+"Introduccion a la Inteligencia Urbana")
 
-st.write("Esta es la recopilación de trabajos que se han realizado en la materia de Inteligencia Urbana en el semestre 2024 - 1 en compañia con el profesor Carlos Mario.
-Este semestre hemos profundizado en conceptos como IoT o tambien conocido como Internet de las Cosas, Analitica de datos y la famosa AI con sus herramientas.")
+st.write("Esta es la recopilación de trabajos que se han realizado en la materia de Inteligencia Urbana en el semestre 2024 - 1" 
+"en compañia con el profesor Carlos Mario. Este semestre hemos profundizado en conceptos como IoT o tambien conocido como" 
+"Internet de las Cosas, Analitica de datos y la famosa AI con sus herramientas.")
 
 image = Image.open('Ciudades_Inteligentes.jpg')
 st.image(image)
