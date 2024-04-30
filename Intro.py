@@ -6,7 +6,7 @@ import json
 
 from PIL import Image
 
-st.title("Esta es la Intro a la Inteligencia Urbana")
+st.title("Esta es la intro a la Inteligencia Urbana")
 
 st.write("Esta es la recopilación de trabajos que se han realizado en la materia de Inteligencia Urbana en el semestre 2024 - 1" 
 "en compañia con el profesor Carlos Mario. Este semestre hemos profundizado en conceptos como IoT o tambien conocido como" 
