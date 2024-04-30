@@ -16,7 +16,7 @@ st.write("El analisis de datos es convertir datos sin procesar en información p
 
 st.title("Accidentalidad Municipio de Medellín 2016")
 
-st.write('En este proyecto se entiende por accidente de tránsito por lo que dicta la Ley 769 de 2002 Código Nacional de Tránsito, es un evento," 
+st.write('En este proyecto tomamos la Ley 769 de 2002 Código Nacional de Tránsito como punto de partida para definir accidente de tránsito como un evento," 
 "generalmente involuntario, generado al menos por un un vehículo en movimiento, que causa daños a personas y bienes involucrados en él, e igualmente" 
 "afecta la normal circulación de los vehículos que se movilizan por la vía o vías comprendidas en el lugar o dentro de la zona de influencia del hecho")
 st.subheader('Sistema de consulta de Accidentalidad municipio de Medellín')
