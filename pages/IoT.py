@@ -20,7 +20,9 @@ st.subheader("Soluciones inteligentes:")
 st.write("EL internet de las cosas hace parte de las soluciones innovadoras en áreas como la gestión del tráfico, la conservación de energía," 
 "la seguridad pública y la prestación de servicios urbanos más personalizados y eficientes. En resumen, el IoT es un habilitador clave para" 
 "la transformación de las ciudades hacia entornos más inteligentes y conectados.")
-"Te invitamos a que monitorees con nosotros la humedad y temperatura de la ciudad para definir como estoas variables inciden" 
+
+         
+st.write("Te invitamos a que monitorees con nosotros la humedad y temperatura de la ciudad para definir como estoas variables inciden" 
 "en el trafico urbano. Ingresa a https://demo.thingsboard.io/dashboards/0a666910-121d-11ef-b68a-bfe4060367e5")
          
 
