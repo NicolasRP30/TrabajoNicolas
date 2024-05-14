@@ -10,8 +10,8 @@ from PIL import Image
 
 st.title("Esto es Internet de las cosas")
 
-st.write("El concepto también conocido como IoT se refiere a la interconexión de dispositivos físicos que están integrados con sensores," 
-"software y conectividad para recopilar y compartir datos entre sí y con otras plataformas. En el contexto de la inteligencia urbana" 
+st.write("El concepto también conocido como IoT se refiere a la interconexión de dispositivos físicos que están integrados con sensores, software" 
+"y conectividad para recopilar y compartir datos entre sí y con otras plataformas. En el contexto de la inteligencia urbana" 
 "y las ciudades inteligentes, el IoT desempeña un papel clave para hacer más eficientes los servicios urbanos. Al conectar dispositivos" 
 "como semáforos, sensores de calidad del aire, medidores de agua y sistemas de transporte público, se puede recopilar información en" 
 "tiempo real para tomar decisiones más informadas y mejorar la calidad de vida de los ciudadanos." 
