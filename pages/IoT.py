@@ -24,7 +24,7 @@ st.write("EL internet de las cosas hace parte de las soluciones innovadoras en Ã
 "en el trafico urbano. Ingresa a https://demo.thingsboard.io/dashboards/0a666910-121d-11ef-b68a-bfe4060367e5")
          
 
-image = Image.open('DetectorIma.png')
+image = Image.open('Sensores humedad y temperatura.jpeg')
 st.image(image)
 
 # Function to encode the image to base64
