@@ -16,7 +16,7 @@ st.write("El concepto también conocido como IoT se refiere a la interconexión 
 "como semáforos, sensores de calidad del aire, medidores de agua y sistemas de transporte público, se puede recopilar información en" 
 "tiempo real para tomar decisiones más informadas y mejorar la calidad de vida de los ciudadanos." 
 
-St.("Soluciones inteligentes")
+st.subheader("Soluciones inteligentes:")
 st.write("EL internet de las cosas hace parte de las soluciones innovadoras en áreas como la gestión del tráfico, la conservación de energía," 
 "la seguridad pública y la prestación de servicios urbanos más personalizados y eficientes. En resumen, el IoT es un habilitador clave para" 
 "la transformación de las ciudades hacia entornos más inteligentes y conectados.")
