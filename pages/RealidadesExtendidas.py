@@ -17,5 +17,5 @@ st.write("Te invitamos a que explores nuestra galeria y veas los proyectos reali
 "https://www.spatial.io/s/nrestrepops-Digital-Hangout-66314548ff215563ea47ef04")
          
 
-image = Image.open('Sensores humedad y temperatura.jpeg')
+image = Image.open('avatar.png')
 st.image(image)
