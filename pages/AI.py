@@ -14,10 +14,10 @@ st.title("AI o Artificial Intelligence")
 st.write("En este proyecto de AI o Inteligencia Artificial en Español se desarrollo un detector de imagenes." 
          "Esta herramienta constituye una solución poderosa para la gestión y monitoreo del tráfico." 
          "Utiliza fotografías para identificar las placas de los vehículos y determinar si están circulando en" 
-         "los días permitidos o si han excedido los límites de velocidad en algún momento."
+         "los días permitidos o si han excedido los límites de velocidad en algún momento.")
          
          
-         "La idea es que subas una imagen para la Inteligencia Artificial pueda reconocer los componentes base y" 
+st.write( "La idea es que subas una imagen para la Inteligencia Artificial pueda reconocer los componentes base y" 
          "generar una descripcion basica de la fotografia.")
 
 
