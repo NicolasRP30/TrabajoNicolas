@@ -27,6 +27,3 @@ st.write("EL internet de las cosas hace parte de las soluciones innovadoras en Ã
 image = Image.open('Sensores humedad y temperatura.jpeg')
 st.image(image)
 
-# Function to encode the image to base64
-def encode_image(image_file):
-    return base64.b64encode(image_file.getvalue()).decode("utf-8")
